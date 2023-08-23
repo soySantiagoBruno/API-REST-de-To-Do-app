@@ -1,4 +1,4 @@
-# API-REST-de-To-Do-app
+# API-REST de una To-Do app
 Creación del backend de una API Rest en Java usando Spring Boot. La api es capaz de realizar un CRUD sobre una base de datos (en este caso levantanda en MySQL). 
 
 Se hizo uso de los diferentes métodos HTTP como GET, POST, PUT y DELETE.
