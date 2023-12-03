@@ -50,7 +50,7 @@ public class TaskController {
         oldTask.setDescripcion(updateTask.getDescripcion());
 
         //la vuelvo a guardar en el repositorio
-        todoRepository.save(updateTask);
+        todoRepository.save(oldTask);
     }
 
 }
